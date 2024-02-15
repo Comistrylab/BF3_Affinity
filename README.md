@@ -53,8 +53,8 @@ For more program documentation, please refer to the description inside each code
 This package includes the following major files:
 - `main.py`: the main file to execute the program including programs to train/evaluate the model.
 - `plot.py`: includes functions for plotting purposes.
-- `data` folder: contains all input files of data
-- `results` folder: contains results produced by the program
+- `Data` folder: contains all input files of data
+- `Result` folder: contains results produced by the program
 
 ### Instruction
 To obtain the results, simply execute `main.py`. The program will prompt you for the program from which you want to execute. Nothing will be printed on the screen by the program. After the program terminates, look in the `results` folder for the output.
