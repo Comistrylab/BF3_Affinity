@@ -57,6 +57,6 @@ This package includes the following major files:
 - `Result` folder: contains results produced by the program
 
 ### Instruction
-To obtain the results, simply execute `main.py`. The program will prompt you for the program from which you want to execute. Nothing will be printed on the screen by the program. After the program terminates, look in the `results` folder for the output.
+To obtain the results, simply execute `main.py`. The program will be conducted automatically. Nothing will be printed on the screen by the program. After the program terminates, look in the `results` folder for the output.
 
 For more program documentation, please refer to the description inside each code file and function.
