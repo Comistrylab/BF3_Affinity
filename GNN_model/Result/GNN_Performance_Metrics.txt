@@ -1,0 +1,3 @@
+          MAE  Pearson_r
+GNN-DFT 10.62       0.89
+GNN-Exp 12.21       0.79
