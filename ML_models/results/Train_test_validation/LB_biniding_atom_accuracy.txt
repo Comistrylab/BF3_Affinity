@@ -1,3 +1,0 @@
-    Affinity Order Accuracy  Highest-Affinity Atom Accuracy
-GB                     0.79                            0.94
-RF                     0.75                            0.91

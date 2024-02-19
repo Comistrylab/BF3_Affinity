@@ -1,3 +1,0 @@
-     MAE  Pearson_r
-GB 10.31        0.9
-RF 10.92        0.9
