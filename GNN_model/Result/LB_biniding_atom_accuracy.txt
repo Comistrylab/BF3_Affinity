@@ -1,0 +1,3 @@
+                      Affinity Order Accuracy  Highest-Affinity Atom Accuracy
+    InSilico Dataset                     0.88                            0.94
+Experimental Dataset                     0.78                            0.95
