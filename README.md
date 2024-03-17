@@ -1,5 +1,5 @@
 # BF3_Affinity
-Machine Learning (ML) and Deep Learning (DL) models for predicting experimental Lewis Base Affinity and Lewis Polybase Binding Atoms in the complex formation with Boron Trifluoride (BF3).
+Machine Learning (ML) and Deep Learning (DL) models for predicting experimental Lewis Base Affinity and Lewis Polybase Binding Atoms in the complex formation with Boron Trifluoride (BF3). Each model includes the datasets formatted in the appropriate form, source code for training and testing processes, as well as the results of the model performance. The ML models contain the tabular data of the datasets, while the DL model (i.e., GNN) contains the graph objects of the investigated molecules.
 
 This study aims to resolve two critical tasks in the realm of Lewis acid-base interactions that have not been quantitatively investigated. First, machine learning developed from the simulation is successful at predicting the experimental properties of Lewis adducts. Second, the models can identify the binding atoms of Lewis polybases in 1:1 adducts, which is either improbable to obtain with experiments, or computationally expensive for quantum simulation.
 
