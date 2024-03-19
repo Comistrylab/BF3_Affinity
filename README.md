@@ -7,7 +7,7 @@ This study aims to resolve two critical tasks in the realm of Lewis acid-base in
 
 The publication associated with this study may be found in the JCC paper:
 
-...
+Huynh, H.; Le, K.; Vu, L.; Nguyen, T.; Holcomb, M.; Forli, S.; Phan, H. Synergy of Machine Learning and Density Functional Theory Calculations for Predicting Experimental Lewis Base Affinity and Lewis Polybase Binding Atoms. Journal of Computational Chemistry. [https://doi.org/10.1002/jcc.27329](https://doi.org/10.1002/jcc.27329).
 
 If using the models in your work, please cite this publication.
 
